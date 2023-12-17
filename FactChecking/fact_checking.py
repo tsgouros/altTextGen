@@ -32,7 +32,7 @@ def convert_rgb_to_names(rgb_tuple):
     distance, index = kdt_db.query(rgb_tuple)
     return f'{names[index]}'
 
-def get_colors_from_image(image_bytes):
+def get_colors_from_image(image_bytes, n_colors=30):
     
     image = Image.open(io.BytesIO(image_bytes)).convert("RGB")
     width, height = image.size
@@ -41,7 +41,7 @@ def get_colors_from_image(image_bytes):
     pixel = np.array(image).reshape((width * height, depth))
     
     # Set the desired number of colors for the image
-    n_colors = 10
+    # n_colors = 10
     
     # Create a KMeans model with the specified number of clusters and fit it to the pixels
     model = KMeans(n_clusters=n_colors, random_state=42).fit(pixel)
@@ -51,7 +51,7 @@ def get_colors_from_image(image_bytes):
 
     # Process image colors
     result = [convert_rgb_to_names(tuple(color)) for color in colour_palette]
-    return result
+    return list(set(result))
 
 # function to process 1 alt text given the alt text string, extracted colors and image metadata
 # color extraction isn't done in this function since it only has to happen once per image, not per alt text
