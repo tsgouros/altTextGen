@@ -42,7 +42,11 @@ def get_colors_from_image(image_bytes, n_colors=30):
     pixel = np.array(image).reshape((width * height, depth))
     
     # Set the desired number of colors for the image
+<<<<<<< HEAD
     #n_colors = 10
+=======
+    # n_colors = 10
+>>>>>>> 961666c7a4c7dc9b4b481b26d831bfaa9efcfb84
     
     # Create a KMeans model with the specified number of clusters and fit it to the pixels
     model = KMeans(n_clusters=n_colors, random_state=42).fit(pixel)
