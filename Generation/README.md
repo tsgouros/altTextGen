@@ -4,7 +4,7 @@ This jupyter notbook contains a demostration of how to use InstructBLIP to gener
 Requirements: \
 torch==2.1.1 \
 openai==1.3.5 \
-transformers==4.34.0 \
+transformers==4.34.0
 
 
 
