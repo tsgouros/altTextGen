@@ -1,0 +1,12 @@
+Credit: X-ray: NASA/CXC/U.Wisc-Madison/S. Heinz et al.; Optical/IR: Pan-STARRS
+Release Date: August 5, 2021
+Scale: Image is about 35 arcmin (80 light years) across.
+Category: Black Holes
+Constellation: Cygnus
+Observation Date: July 13th and 29th, 2015
+Observation Time: 18 hours 51 minutes
+Obs. ID: 17701, 17704
+Instrument: ACIS
+References: Heinz, S., et al., ApJ, 2016, 825, 15;arXiv:1605.01648
+Color Code: X-ray: blue, teal; IR/Optical: red, green, blue
+Distance Estimate: About 7,800 light years

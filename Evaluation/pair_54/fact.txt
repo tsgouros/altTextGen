@@ -1,0 +1,11 @@
+Credit: IC443 Simulation: INAF/S. Ustamujic et al.; X-ray data: NASA/CXC/MSFC/D.Swartz et al.; VR model: NASA/CXC/Brown Univ./A.Dupuis et al.
+Release Date: May 20, 2021
+Category: Neutron Stars/X-ray Binaries,Supernovas & Supernova Remnants
+Coordinates (J2000): RA 6h 17m 05.00s | Dec +22° 21´ 27.00"
+Constellation: Gemini
+Observation Date: February 6 & 8, 2012
+Observation Time: 42 hours 13 minutes (1 day 18 hours 13 min)
+Obs. ID: 2518
+Instrument: ACIS
+References: Ustamujic et al. 2021, accepted, A&AarXiv:2012.08017
+Distance Estimate: About 5,000 light years

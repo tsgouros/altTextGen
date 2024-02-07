@@ -1,0 +1,13 @@
+Credit: Chandra (X-ray): NASA/CXC/Univ. di Palermo/E. Greco; Illustration: INAF-Osservatorio Astronomico di Palermo/Salvatore Orlando
+Release Date: February 23, 2021
+Scale: Chandra image is about 4.2 arcsec (3.5 light years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 05h 35m 28.30s | Dec -69° 16´ 11.10"
+Constellation: Dorado
+Observation Date: 7 pointings between Mar 2012 and Sept 2014
+Observation Time: 95 hours 30 minutes (3 days 23 hours 30 minutes)
+Obs. ID: 13735, 14417, 14697-14698, 15809-15810, 17415
+Instrument: ACIS
+Also Known As: Supernova 1987A
+References: Greco, E., et al., 2021, ApJ Letters (accepted)arXiv:2101.0929
+Distance Estimate: About 168,000 light years

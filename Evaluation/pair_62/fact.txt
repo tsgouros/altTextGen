@@ -1,0 +1,12 @@
+Credit:: X-ray: NASA/CXC/Univ. of Michigan/A. Foord et al.; Optical: SDSS & NASA/STScI
+Release Date:: January 14, 2021
+Scale:: Image is about 12.6 arcsec (52,000 light years) across
+Category: Black Holes,Groups & Clusters of Galaxies
+Coordinates (J2000):: RA 10h 27m 00.5s | +17° 49" 00.3'
+Constellation:: Leo
+Observation Dates:: Jan 23, 2013
+Observation Time:: 13 hours 43 minutes
+Obs. ID:: 14971
+Instrument:: ACIS
+Color Code:: X-ray: pink Optical: red, green, blue
+Distance Estimate:: About 890 million light years

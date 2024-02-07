@@ -1,0 +1,13 @@
+Credit: X-ray: (Chandra: NASA/CXC/Univ. Bonn/A. Veronica et al; XMM-Newton: ESA/XMM-Newton); Optical: DES/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Radio: CSIRO/ASKAP/EMU
+Release Date: July 2, 2021
+Scale: Image is about 8.75 arcmin (1.7 million light years) across.
+Category: Groups & Clusters of Galaxies,Black Holes
+Coordinates (J2000): RA 06h 21m 43.30s  | Dec -52Â° 41Â´ 33.3
+Constellation: Carina
+Observation Date: 4 observations between Oct 3, 2010 and May 21, 2020
+Observation Time: 30 hours 15 minutes (1 day 6 hours and 15 minutes)
+Obs. ID: 11499, 22723-22725
+Instrument: ACIS
+References: Veronica, A., et al, 2021, A&A (submitted);arXiv:2012.08491
+Color Code: X-ray: Chandra, purple; XMM-Newton, blue; Radio: red, Optical: orange, green, blue
+Distance Estimate: About 690 million light years (z=0.0511)

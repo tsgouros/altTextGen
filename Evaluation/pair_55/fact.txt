@@ -1,0 +1,15 @@
+Credit: Chandra: NASA/CXC/RIKEN/T. Sato et al.; NuSTAR: NASA/NuSTAR; Hubble: NASA/STScI
+Release Date: April 21, 2021
+Scale: Image is about 8.9 arcmin (29 light years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 23h 23m 26.7s | Dec +58° 49' 03.00"
+Constellation: Cassiopeia
+Observation Date: 25 pointings between Jan 2000 and May 2018
+Observation Time: 436 hours (18 days, 4 hours)
+Obs. ID: 114, 1952, 4634-4639, 5196, 5319, 5320, 9117, 9773, 10935, 10936, 12020, 
+13277, 14229, 14480-14482, 18344, 19604, 19605, 19903
+Instrument: ACIS
+Also Known As: Cas A
+References: Sato, T. et al.; 2021, Nature (published)
+Color Code: Chandra: Red: Iron, Green: Si/Mg ratio, Purple: Oxygen; NuSTAR: Blue: Titanium; Hubble: yellow
+Distance Estimate: About 11,000 light years

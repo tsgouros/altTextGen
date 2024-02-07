@@ -1,0 +1,13 @@
+Credit: NASA/SAO/NCSU/Borkowski et al.
+Release Date: June 24, 2021
+Scale: Image is about 6.64 arcmin (33 light years) across.
+Category: Supernovas & Supernova Remnants,Neutron Stars/X-ray Binaries
+Coordinates (J2000): RA 15h 13m 35.0s | Dec -59° 00´ 12"
+Constellation: Circinus
+Observation Date: 7 observations from Dec 31, 2004 through April 8, 2018
+Observation Time: 75 hours 26 minutes (64 days 19 hours and 26 minutes)
+Obs. ID: 5562, 9138, 19299, 19300, 20910, 20932, 20933
+Instrument: ACIS
+References: Borkowski, K, Reynolds, S, and Miltich, W, 2020, ApJL, 895, 32;arXiv:2005.07721
+Color Code: Red: 0.2-2.0 keV; Yellow: 2.0-3.0 keV; Blue: 3.0-6.5 keV
+Distance Estimate: About 17,000 light years

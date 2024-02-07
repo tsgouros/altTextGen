@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Penn State/B.Luo et al.; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)
+Release Date: March 24, 2021
+About the Sound: A vertical scan from bottom to topColor (technically the hue) in the image is mapped to musical pitches: the colors of the rainbow from red through violet are mapped to low to high pitchesThe color represents x-ray energy/frequency so lower notes represent lower energy x-rays and higher notes are higher energy x-raysThe full range of sonic frequencies is similar to the range of x-ray frequencies present (which is much larger than the range of visible frequencies in the visible spectrum)Sources that appear white emit x-rays of many frequencies which is represented in sound as white noise (usually short pulses because the sources are small)The volume is controlled by the brightness of each sourceThe horizontal position of the sources are reflected in the stereo panning (sources near the left are heard more in the left channel and similarly for the right)
+Scale: Image is about 16 arcmin across
+Category: Cosmology/Deep Fields/X-ray Background,Black Holes
+Coordinates (J2000): RA 03h 32m 28s | Dec -27° 48´ 30.00"
+Constellation: Fornax
+Observation Date: 102 pointings between 1999 and 2016
+Observation Time: 1944 hours 27 min (81 days 27 minutes)
+Obs. ID: 1431, 441, 582, 1672, 2239, 2312, 2313, 2405, 2406, 2409, 8591-8597, 9575, 9578, 9593, 9596, 9718, 12043-12055, 12123, 12128, 12129, 12135, 12137, 12138, 12213, 12218-12220, 12222, 12223, 12227, 12230-12234, 16175-16191, 16450-16463, 16620, 16641, 16644, 17416, 17417, 17535, 17542, 17546, 17552, 17556, 17573, 17633, 17634, 17677, 18709, 18719, 18730
+Instrument: ACIS
+Color Code: X-ray: red, green, and blue
+Distance Estimate: About 11.9 to 12.9 billion light years

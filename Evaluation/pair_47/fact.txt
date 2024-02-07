@@ -1,0 +1,12 @@
+Credit: Illustration: NASA/CXC/M. Weiss; X-ray Image (inset): NASA/CXC/SAO/D. Schwartz et al.
+Release Date: August 31, 2021
+Scale: X-ray image (inset) is about 10 arcsec (250,000 light years) across.
+Category: Quasars & Active Galaxies,Black Holes
+Constellation: Delphinus
+Observation Date: Apr 12, 2000
+Observation Time: 2 hours 9 minutes
+Obs. ID: 429
+Instrument: ACIS
+References: Schwartz, D., Spingola, C., and Barnacka, A., 2021, ApJ, 917, 26;arXiv:2103:08537
+Color Code: X-ray: Pink
+Distance Estimate: About 11.8 billion light years (z=3.273)

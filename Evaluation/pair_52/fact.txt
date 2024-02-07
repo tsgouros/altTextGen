@@ -1,0 +1,13 @@
+Credit:: X-ray: NASA/CXC/Penn State/K. Getman, et al; Infrared: NASA/JPL/Spitzer
+Release Date:: June 16, 2021
+Scale:: Image is about 27.1 arcmin (34.6 light years) across
+Category: Normal Stars & Star Clusters
+Coordinates (J2000):: RA 18h 03m 37.0s | -24° 23' 12"
+Constellation:: Sagittarius
+Observation Dates:: 3 observations between July 24-28, 2003
+Observation Time:: 2 Days (48 hours 0 minutes)
+Obs. ID:: 3754, 4397, 4444
+References:: Getman, K.V., and Feigelson, E.D., 2021, ApJ (accepted);arXiv:2105.04768
+Instrument:: ACIS
+Color Code:: X-ray: pink; Infrared: blue
+Distance Estimate:: About 4,400 light years

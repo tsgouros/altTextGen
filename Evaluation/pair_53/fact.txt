@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/UMass/Q.D. Wang; Radio: NRF/SARAO/MeerKAT
+Release Date: May 27, 2021
+Scale: Image is about 2.2 degrees (1,000 light years) across and 4.2 degrees (2,000 light years) long.
+Category: Normal Galaxies & Starburst Galaxies,Milky Way Galaxy
+Coordinates (J2000): RA 17h 45m 23.5s | Dec -29° 02´ 00.1"
+Constellation: Sagittarius
+Observation Date: 370 observations from 1999 through 2019
+Observation Time: 1555 hours 26 minutes (64 days 19 hours and 26 minutes)
+Obs. ID: 21581-21628 and 323 others
+Instrument: ACIS
+References: Wang, Q.D., 2021, MNRAS(accepted);arXiv:2010.02932
+Color Code: X-ray: orange, green, blue, purple; Radio: lilac, gray;
+Distance Estimate: About 26,000 light years

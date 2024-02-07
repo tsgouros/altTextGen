@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Univ. of West Virginia/H. Blumer; Infrared (Spitzer and Wise): NASA/JPL-CalTech/Spitzer
+Release Date: January 8, 2021
+Scale: Image is about 28 arcmin (170 light years) across.
+Category: Neutron Stars/X-ray Binaries
+Coordinates (J2000): RA 18h 18m 00s | Dec -16° 07´ 53.0"
+Constellation: Sagittarius
+Observation Date: April 3, 2020
+Observation Time: 8 hours 24 minutes
+Obs. ID: 23209
+Instrument: ACIS
+References: Blumer, H. and Safi-Harb, S. 2020, ApJL, 904, 19L;arXiv:2011.00324
+Color Code: X-ray: purple; Infrared: red, green, and blue
+Distance Estimate: About 21,000 light years

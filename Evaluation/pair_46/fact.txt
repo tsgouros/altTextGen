@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/SAO/Sejong Univ./Hur et al; Optical: NASA/STScI; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)
+Release Date: September 16, 2021
+About the Sound: Left to right sweep across image (stereo position also indicates left-right position within the image)Note pitch indicates the vertical position (higher pitches towards the top of the image)Volume indicates the brightnessX-ray sources (Chandra) are played by bells, with the more diffuse X-ray light is played by purer sustained tonesOptical light (Hubble) played by strings: stars are plucked strings and nebula are sustained strings
+Scale: Image is about 7.5 arcmin (44 light years) across
+Category: Groups & Clusters of Galaxies
+Coordinates (J2000): RA 10h 23m 58.10s | Dec -57° 45´ 49.0"
+Constellation: Carina
+Observation Date: 3 pointings: Aug 23, 2003, Sep 5 & 28, 2006
+Observation Time: 24 hours 37 minutes (1 day 37 minutes)
+Obs. ID: 3501, 6410, 6411
+Instrument: ACIS
+Color Code: X-ray: purple; Optical: red, green, blue
+Distance Estimate: About 20,000 light years

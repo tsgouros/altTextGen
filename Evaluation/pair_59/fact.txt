@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXO/JPL/T. Connor; Optical: Gemini/NOIRLab/NSF/AURA; Infrared: W.M. Keck Observatory; Illustration: NASA/CXC/M.Weiss
+Release Date: March 9, 2021
+Scale: Image is about 25 arcsec (475,000 light years) across.
+Category: Quasars & Active Galaxies,Black Holes
+Coordinates (J2000): RA 23h 29m 36.81s | Dec -15Â° 20Â´ 14.28"
+Constellation: Aquarius
+Observation Date: 7 observations from Aug 18, 2019 to Sep 22, 2019
+Observation Time: 73 hours 34 minutes (3 days, 1 hour, 34 minutes)
+Obs. ID: 21415, 21416, 22728-22730, 22850, 22951
+Instrument: ACIS
+References: Connor T., et. al, 2021 ApJ (accepted);arXiv:2103.03879
+Color Code: X-ray: purple; Optical: cyan; Infrared: red
+Distance Estimate: About 12.74 billion light years (z=5.831)

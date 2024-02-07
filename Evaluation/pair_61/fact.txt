@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Nanjing Univ./P. Zhou et al. Radio: NSF/NRAO/VLA
+Release Date: February 8, 2021
+Scale: Image is about 5.0 arcmin (37 light years) across.
+Category: Black Holes,Supernovas & Supernova Remnants
+Coordinates (J2000): RA 17h 45m 40.0s | Dec -29° 00´ 28.1"
+Constellation: Sagittarius
+Observation Date: 38 observations from Feb 6, 2012 to Nov 5, 2012
+Observation Time: 816 hours 28 minutes (34 days 0 hours 28 minutes)
+Obs. ID: 13838-13857, 14392-14394, 14413-14414, 14427, 14432, 14438-14439, 14460-14463, 14465-14466, 14468, 15568, 15570
+Instrument: ACIS
+References: Zhou,P. et al. 2021, ApJ, accepted;arXiv:2006.15049
+Color Code: X-ray: blue; Radio: red
+Distance Estimate: About 25,600 light years

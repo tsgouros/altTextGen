@@ -1,0 +1,11 @@
+Credit: X-ray: NASA/CXO/University College London/W. Dunn et al; Infrared: W.M. Keck Observatory
+Release Date: March 31, 2021
+Scale: Image is about 10.6 arcsec (90,000 miles) across.
+Category: Solar System
+Observation Date: August 7, 2002
+Observation Time: 8 hours 13 minutes
+Obs. ID: 2518
+Instrument: ACIS
+References: Dunn, W. et al. 2021, JGR (accepted)
+Color Code: X-ray: pink; Optical: blue
+Distance Estimate: About 1.8 billion miles (2.9 billion kilometers)

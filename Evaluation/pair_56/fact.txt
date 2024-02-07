@@ -1,0 +1,21 @@
+Image Credit: The EHT Multi-wavelength Science Working Group; the EHT 
+Collaboration; ALMA (ESO/NAOJ/NRAO); the EVN; the EAVN Collaboration; 
+VLBA (NRAO); the GMVA; the Hubble Space Telescope; the Neil Gehrels 
+Swift Observatory; the Chandra X-ray Observatory; the Nuclear 
+Spectroscopic Telescope Array; the Fermi-LAT Collaboration; the H.E.S.S 
+collaboration; the MAGIC collaboration; the VERITAS collaboration; NASA 
+and ESA.
+Video Compilation Credit: NASA/GSFC/SVS/M.Subbarao & NASA/CXC/SAO/A.Jubett
+Release Date: April 14, 2021
+Scale: Scale boxes range from 0.01 to 1,000,000 light years across.
+Category: Black Holes,Quasars & Active Galaxies
+Coordinates (J2000): Chandra: RA 12h 30m 49.40s | Dec +12Â° 23Â´ 28.00"
+Constellation: Virgo
+Observation Date: Chandra: April 11, 2017 and April 14, 2017
+Observation Time: Chandra: 7 hours 17 minutes
+Obs. ID: Chandra: 20034, 20035
+Instrument: Chandra:ACIS
+Also Known As: NGC 4486
+References: The EHT MWL Science Working Group, J. C. Algaba et al.;Algaba, J et al, 2021, ApJL
+Color Code: intensity
+Distance Estimate: About 55 million light years

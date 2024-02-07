@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Leiden Univ./A. Botteon et al.; Radio: LOFAR/ASTRON; Optical/IR:PanSTARRS
+Release Date: July 15, 2021
+Scale: Image is about 19.4 arcmin (5.3 million light years) across.
+Category: Groups & Clusters of Galaxies
+Coordinates (J2000): RA 13h 41m 55.6s | Dec +26° 21´ 53"
+Constellation: Boötes
+Observation Date: July 31 & August 12, 2011
+Observation Time: 27 hours 26 minutes (1 day 3 hours 26 minutes)
+Obs. ID: 12891, 13510
+Instrument: ACIS
+References: Botteon, A., et. al, 2021, A&A, 649, A37;arXiv:2103.01989
+Color Code: X-ray: blue; Radio: red; Optical/IR: red, green, blue
+Distance Estimate: About 960 million light years (z=0.072)
