@@ -12,7 +12,7 @@ import numpy as np
 from k_means import classify_text
 from gpt import evaluate_description
 
-openai.api_key = "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"
+openai.api_key = "lalalala"
 categories = {
     "Colors and Descriptions": {"blue", "light", "bright", "white", "black", "red", "orange", "yellow", "pink", "green", "color", "colorful", "shades"},
     "Spatial Directions and Positions": {"left", "right", "top", "bottom", "center", "below", "above", "up", "down", "side"},
