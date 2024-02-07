@@ -1,0 +1,14 @@
+Credit: X-ray: NASA/CXC/Princeton Univ/C. Bambic et al.; Optical: SDSS; Radio: NSF/NRAO/VLA/ESO; Image processing: NASA/CXC/SAO/N.Wolk
+Release Date: May 4, 2023
+Scale: Image is about 9 arcmin (140,000 light-years) across.
+Category: Normal Galaxies & Starburst Galaxies,Black Holes
+Coordinates (J2000): RA 12h 25m 03.74s | Dec +12° 53´ 13.14"
+Constellation: Virgo
+Observation Dates: 26 observations from May 2000 through May 2019
+Observation Time: 234 hours 39 minutes (9 days 18 hours 39 minutes)
+Obs. ID: 803, 5908, 6131, 20539-20543, 21845, 12867, 22126-22128, 22142-22144, 22153, 22163, 22164, 22166, 22174-22177, 22195, 22196
+Instrument: ACIS
+Also Known As: NGC 4374
+References: Bambic, C. et al. 2023, MNRAS,(accepted);arXiv:2301.11937
+Color Code: X-ray: pink; Optical: red, green, blue; Radio: blue;
+Distance Estimate: About 55 million light-years

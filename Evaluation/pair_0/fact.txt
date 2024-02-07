@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Stanford Univ./R. Romani et al. (Chandra); NASA/MSFC (IXPE); Infrared: NASA/JPL-Caltech/DECaPS; Image Processing: NASA/CXC/SAO/J. Schmidt
+Release Date: October 30, 2023
+Scale: Image is about 20 arcmin (93 light-years) across.
+Category: Supernovas & Supernova Remnants,Neutron Stars/X-ray Binaries
+Coordinates (J2000): RA 15h 13m 55.52s | Dec  -59° 08´ 08.8"
+Constellation: Circinus
+Observation Dates: 10 pointings between 14 Aug 2000 and 19 June 2008
+Observation Time: 93 hours 50 minutes (3 days 21 hours 50 minutes)
+Obs. ID: 754, 3833, 3834, 4384, 5534, 5535, 5562, 6116, 6117, 9138
+Instrument: ACIS
+References: Romani, R. et al., ApJ, 2023;arXiv:2309.16067
+Color Code: X-ray: orange, green, blue (Chandra), purple (IXPE); Infrared: red, blue
+Distance Estimate: About 16,000 light-years

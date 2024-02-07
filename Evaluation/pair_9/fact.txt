@@ -1,0 +1,13 @@
+Credit: X-ray: Chandra: NASA/SAO/Univ. of Alabama/M. S. Mirakhor et al.; XMM: ESA/XMM-Newton; Optical: SDSS; Image processing: N. Wolk
+Release Date: June 6, 2023
+Scale: Large Field of View: about 10 arcminutes (970,000 million light-years) across; Inset: about 18 arcsec (29,000 light-years) across
+Category: Normal Galaxies & Starburst Galaxies,Groups & Clusters of Galaxies
+Coordinates (J2000): RA 12h 57m 00.3s | Dec +27° 28´ 00.6"
+Constellation: Canes Venatici
+Observation Dates: 8 observations from November, 2010 to November, 2020
+Observation Time: 64 hours 27 minutes (2 days 16 hours 27 minutes)
+Obs. ID: 12887, 22648, 22649, 22930, 23182, 23361, 24853, 24854
+Instrument: ACIS
+References: Reference: Mirakhor, M. S. et al. 2023,MNRAS, 522, 2105
+Color Code: X-ray: XMM-Newton: blue, Chandra: purple; Optical: Red, Green, Blue
+Distance Estimate: About 340 Million light-years (z=0.0245)

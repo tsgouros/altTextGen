@@ -1,0 +1,14 @@
+Credit: X-ray: NASA/CXC/SAO (Chandra); NASA/MSFC/Nanjing Univ./P. Zhou et al. (IXPE); IR: NASA/JPL/CalTech/Spitzer; Image Processing: NASA/CXC/SAO/J.Schmidt
+Release Date: October 26, 2023
+Scale: Image is about 34 arcmin (70 light-years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 15h 02m 50.88s | Dec -41° 55´ 24.84"
+Constellation: Lupus
+Observation Dates: 24 pointings between July 2000 and June 2012
+Observation Time: 248 hours (10 days 8 hours)
+Obs. ID: 732, 1959, 3838, 4385-4394, 9107, 13737-13743, 14423, 14424, 14435
+Instrument: ACIS
+Also Known As: SNR 327.6+14.6
+References: Zhou P. et al, 2023, ApJ, Accepted;arXiv:2309.01879
+Color Code: X-ray: (Chandra) red, green, blue; (IXPE) purple; IR: yellow
+Distance Estimate: About 7,100 light-years

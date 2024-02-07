@@ -1,0 +1,12 @@
+Credit:: X-ray: NASA/CXC/SAO; IR/Optical: NASA/ESA/CSA/STScI, NASA/ESA/STScI; IR/Optical/X-ray overlay: NASA/JPL/Caltech/Spitzer, ESO; ESA/XMM-Newton; Image Processing: L. Frattare, J. Major, and K. Arcand, with additional support on NGC 346 by A. Kudrya
+Release Date:: May 23, 2023
+Scale:: Image is about 3.8 arcmin (220 light-years) across
+Category: Normal Stars & Star Clusters
+Coordinates (J2000):: RA 00h 59m 05.1s  | -72° 10' 33.2"
+Constellation:: Tucana
+Observation Date(s):: May 15, 2001
+Observation Time:: 27 hours 25 minutes (1 day 3 hours 25 minutes)
+Obs. IDs:: 1881
+Instrument:: ACIS
+Color Code:: X-ray: purple; IR/Optical: red, green, blue; IR/Optical/X-ray overlay: red, green, blue
+Distance Estimate:: About 200,000 light-years

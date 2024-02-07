@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/MIT/M. Calzadilla; UV/Optical/Near-IR/IR: NASA/STScI/HST; Image processing: N. Wolk
+Release Date: July 20, 2023
+Scale: Image is about 25 arcsec (680,000 light-years) across.
+Category: Groups & Clusters of Galaxies,Quasars & Active Galaxies
+Coordinates (J2000): RA 22h 15m 04.1s | Dec -35° 37´ 13.4"
+Constellation: Piscis Austrinus
+Observation Dates: August 20, 2021
+Observation Time: 20 hours 4 minutes
+Obs. ID: 22653, 24614, 24615
+Instrument: ACIS
+References: Calzadilla, M., et al, 2023, ApJ, 947, 44DOI 10.3847/1538-4357/acc6c2
+Color Code: X-ray: blue; UV/Optical/Near-IR: cyan; IR: orange
+Distance Estimate: About 8.4 billion light-years (z = 1.16)

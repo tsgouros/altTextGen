@@ -1,0 +1,17 @@
+Credit: X-ray: NASA/CXC/SAO/R. Montez et al.; Optical: Data: NASA/ESA/STScI, Enhanced processing by Judy Schmidt (CC BY-NC-SA). X-ray/Optical composite processing by CXC; Sonification: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)
+Release Date: June 20, 2023
+About the Sound: Radar-like scan, clockwise starting at 12 O’ClockOptical image:brightness controls volume, distance from the center controls musical pitch
+(higher notes at larger radii)Can hear arching arms towards top, bottom and either sideDeep thuds heard towards the 4 corners are diffraction spikes from HubbleX-ray image:Brightness controls volume, distance from the center controls pitch (higher tones
+at larger radii)
+(higher notes at larger radii)X-ray jets are heard most clearly at 2 O’Clock and 8 O’ClockOptical spectrum (included with optical layer):Frequencies of light in optical spectrum are shifted down by 40 octaves to bring
+them into the human hearing range when played as soundOptical (HST) is played on a breathy synth (sustained for diffuse gas, plucked for point-like star clusters)X-ray (Chandra) is played on string-like synthThe most intense parts of the core and jet that appear white are also heard as pitch-filtered noiseListening notes:the core near the BH is the brightest/loudestrising jet with gaps and clumps can be heard as rising pitch with volume fluctuationsGlow in HST due to billions of unresolved stars produces sustained chord
+Scale: The X-ray image iImage is about 4.2 arcmin (0.86 light years) across
+Category: Normal Stars & Star Clusters,White Dwarfs & Planetary Nebulas
+Coordinates (J2000): RA 23h 49m 34.6s | Dec -15° 17´ 04"
+Constellation: Aquarius
+Observation Date: 3 pointings between Sep 2001 and Oct 2005
+Observation Time: 34 hours 54 minutes (1 day 10 hours 54 minutes)
+Obs. ID: 651, 4546, 5438
+Instrument: ACIS
+Color Code: X-ray: purple; Optical: red, green, and blue
+Distance Estimate: About 710 light-years

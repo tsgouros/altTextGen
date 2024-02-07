@@ -1,0 +1,11 @@
+Credit: NASA/CXC/Univ of Michigan/J. Miller et al.; Illustration: NASA/CXC/M.Weiss
+Release Date: August 22, 2023
+Category: Black Holes
+Coordinates (J2000): RA 12h 48m 15.20s | Dec 17° 46´ 26.20"
+Constellation: Coma Berenices
+Observation Dates: 2 observations; Dec 8 & 11, 2014
+Observation Time: 22 hours 1 minute
+Obs. ID: 17566, 17567
+Instrument: HRC
+References: Miller, J.M., et al., 2023, ApJL, 53, 2DOI 10.3847/2041-8213/ace03c
+Distance Estimate: About 285 million light-years (z=0.0206)

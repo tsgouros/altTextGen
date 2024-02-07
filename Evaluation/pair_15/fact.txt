@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Univ. of Torino/V. Missaglia et al.; Optical: NASA/ESA/STScI & International Gemini Observatory/NOIRLab/NSF/AURA; Infrared: NASA/ESA/STScI; Radio: NRAO/AUI/NSF
+Release Date: March 8, 2023
+Scale: Image is about 24 arcsec (670,000 light-years) across.
+Category: Groups & Clusters of Galaxies,Normal Galaxies & Starburst Galaxies
+Coordinates (J2000): RA 14h 17m 24.1s | Dec -4° 00´ 48.9"
+Constellation: Virgo
+Observation Dates: March 27, 2016; April 7, 8, 10, 11, 13 and 27, 2021; August 7 and 24, 2021; April 11, 2022
+Observation Time: 35 hours (2 days 11 hours)
+Obs. ID: 18103, 23829, 24352, 24353, 24355-24357, 25000, 25001, 25004, 25023
+Instrument: ACIS
+References: Missaglia, V, et al.,2023, ApJS, 264, 6
+Color Code: X-ray: purple; Optical: blue (Hubble) & green (Gemini); Infrared: orange (Hubble); Radio: red
+Distance Estimate: About 9.2 billion light-years
