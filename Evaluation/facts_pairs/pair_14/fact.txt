@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/The Ohio State Univ/S. Lopez et al.; H-alpha and Optical: NSF/NOIRLab/AURA/KPNO/CTIO; Infrared: NASA/JPL-Caltech/Spitzer/D. Dale et al; Full Field Optical: ESO/La Silla Observatory.
+Release Date: March 29, 2023
+Scale: Optical image is about 30.0 arcmin (99,500 light-years) across; X-ray inset is about 4.1 arcmin (14,000 light-years) across.
+Category: Normal Galaxies & Starburst Galaxies
+Coordinates (J2000): RA 00h 47m 33.10s | Dec -25° 17' 18"
+Constellation: Sculptor
+Observation Dates: 7 pointings from Dec 27, 1999 to Aug 15, 2018
+Observation Time: 97 hours 28 minutes (4 days 1 hour 28 minutes)
+Obs. ID: 790, 969, 3931, 13830, 13831, 13832, 20343
+Instrument: ACIS
+References: Lopez,S. et al., 2023, ApJ, 942, 108;arXiv:2209.09260
+Color Code: X-ray: pink and white; H-alpha: orange; Infrared: red; Optical: cyan
+Distance Estimate: About 11.4 million light-years

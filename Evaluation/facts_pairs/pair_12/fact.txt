@@ -1,0 +1,14 @@
+Credit: X-ray: (IXPE): NASA/MSFC/IXPE/S. Ehlert et al.; (Chandra): NASA/CXC/SAO; Optical: ESO/WFI; Image processing: NASA/CXC/SAO/J.Schmidt
+Release Date: May 2, 2023
+Scale: Image is about 16.7 arcmin (58,000 light-years) across.
+Category: Quasars & Active Galaxies
+Coordinates (J2000): RA 13h 25m 27.6s | Dec -43° 01´ 08.8"
+Constellation: Centaurus
+Observation Dates: 10 pointings between 03 Sep 3, 2002 and Aug 9, 2017
+Observation Time: 225 hours 41 minutes (9 days 9 hours 41 minutes)
+Obs. ID: 2978, 3965, 7797-7800, 8489, 8490, 10722, 20794
+Instrument: ACIS
+Also Known As: Cen A, NGC 5128
+References: Ehlert, S. et al, 2022,ApJ, 935, 116
+Color Code: X-ray: blue (Chandra), red (IXPE); Optical: yellow
+Distance Estimate: About 12 million light-years

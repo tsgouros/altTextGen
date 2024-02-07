@@ -1,0 +1,13 @@
+Credit:: NASA/CXC/UMass/Q.D. Wang; Image processing: NASA/CXC/SAO/N. Wolk
+Release Date:: September 13, 2023
+Scale:: Image is about 96 arcmin (725 light-years) across
+Category: Normal Galaxies & Starburst Galaxies
+Coordinates (J2000):: RA 17h 45m 23.5s  | -29° 02' 00.1"
+Constellation:: Sagittarius
+Observation Date(s):: 370 observations from Sept 9, 1999 to July 28, 2019
+Observation Time:: 1,555 hours 26 minutes (64 days, 19 hours 26 minutes)
+Obs. IDs:: 21581-21628 and 323 others
+Instrument:: ACIS
+Reference(s):: Wang, Q.D.,Universe, 8, 515
+Color Code:: X-ray: orange (1-2.5 keV), green(2.5-4 keV), blue (4-6 keV), purple(6-9 keV)
+Distance Estimate:: About 26,000 light-years

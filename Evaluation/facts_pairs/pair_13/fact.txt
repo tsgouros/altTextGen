@@ -1,0 +1,13 @@
+Credit: Science: NASA/CXC/Univ. of Illinois/I. Brunton et al.; Illustration: NASA/CXC/M. Weiss
+Release Date: April 20, 2023
+Scale: Image of SN 2010jl is about 46 arcsec (36,000 light-years) across.
+Category: Supernovas & Supernova Remnants,Exoplanet
+Coordinates (J2000): RA09h 42m 53.33s | Dec+09° 29´ 41.80"
+Constellation: Leo
+Observation Dates: 3 pointings between 7 Dec 2010 and 17 Oct 2011
+Observation Time: 22 hours 13 minutes
+Obs. ID: 11122, 13199, 13781
+Instrument: ACIS
+References: Brunton, I. et al. 2023,ApJ, 947, 42
+Color Code: X-ray: purple; Optical: red, green, and blue
+Distance Estimate: About 163 million light-years

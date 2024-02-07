@@ -1,0 +1,14 @@
+Credit: X-ray: NASA/CXC/Rutgers/J. Hughes et al.; Infrared: NASA/ESA/CSA, J.M. Diego (IFCA), B.Frye (Univ. of Arizona), P.Kamieneski, T.Carleton & R.Windhorst (ASU);Image processing: X-ray: L. Frattare; J. Major, K.Arcand (SAO). Infrared: A.Pagan (STScI), J.Summers (ASU), J.C.J.D'Silva (UWA), A.M.Koekemoer (STScI), A.Robotham (UWA), R.Windhorst (ASU)
+Release Date: August 2, 2023
+Scale: Image is about 2.3 arcmin (6 million light-years) across.
+Category: Groups & Clusters of Galaxies
+Coordinates (J2000): RA 01h 02m 52.50s | Dec -49° 14´ 58.00"
+Constellation: Phoenix
+Observation Dates: 3 pointings between 26 Jan 2011 and 21 Feb 2012
+Observation Time: 97 hours 30 minutes (4 days 1 hour 30 minutes)
+Obs. ID: 12258, 14022, 14023
+Instrument: ACIS
+Also Known As: ACT-CL J0102-4915
+References: Frye, B. et al. 2023,ApJ, 952, 81(preprint:arXiv:2303.03556); Diego, J. et al. 2023,A&A, 672, 3(preprint:arXiv:2210.06514)
+Color Code: X-ray: blue; Infrared: red, green, blue
+Distance Estimate: About 7.3 billion light-years (z=0.87)

@@ -1,0 +1,15 @@
+Credit: Chandra: NASA/CXC/SAO; IXPE: NASA/MSFC/F. Marin et al; Image Processing: L.Frattare, J.Major & K.Arcand;Sonification Credit: NASA/CXC/SAO/K.Arcand, SYSTEM Sounds (M. Russo, A. Santaguida)
+Release Date: June 21, 2023
+About the Sound: Circular scan, following the path of light emitted in the outburst from SgrA* (out of frame)Horizontal position mapped to stereo position of soundIXPE:X-ray spectrum (of the echo region) is converted directly to an audio spectrum, 51 and 52 octaves below the true frequenciesBrightness controls the volumeChandra:Brightness controls musical pitch and volume
+Scale: Image is about 13 arcmin (100 light-years) across.
+Category: Black Holes,Milky Way Galaxy
+Coordinates (J2000): RA 17h 45m 23.5s | Dec -29° 02´ 00.1"
+Constellation: Sagittarius
+Observation Date: 370 observations from Sept 9, 1999 to July 28, 2019
+Observation Time: 1555 hours 26 minutes (64 days 19 hours 26 minutes)
+Obs. ID: 21581-21628 and 323 others
+Instrument: ACIS
+Also Known As: Galactic Center
+References: F. Marin et al. Nature, 2023, accepted,arXiv:2304.06967
+Color Code: Chandra: blue; IXPE: red-orange
+Distance Estimate: About 26,000 light-years

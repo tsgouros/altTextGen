@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/SAO/GSFC/M. Corcoran et al.; Image Processing: L. Frattare, J. Major, N. Wolk (SAO/CXC)
+Release Date: September 26, 2023
+Scale: Image is about 2.2 arcmin (4.8 light-years) across.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA 10h 45m 04s | Dec -59° 41´ 03"
+Constellation: Carina
+Observation Dates: 17 observations from Sept 1999 to March 2020
+Observation Time: 79 hours 41 minutes (3 days 7 hours 41 minutes)
+Obs. ID: 50, 51, 1249, 4455, 9933-9937, 16509, 15731, 15732, 16510, 15733, 16511, 22312, 22313
+Instrument: ACIS
+References: Corcoran, M. et al, ApJ, 2022, 937, 122.DOI 10.3847/1538-4357/ac8f27
+Color Code: X-ray: red, green, and blue
+Distance Estimate: About 7,500 light-years
