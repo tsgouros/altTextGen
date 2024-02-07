@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Dartmouth Coll./J. Parker & R. Hickox; Optical/IR: Pan-STARRS
+Release Date: January 10, 2022
+Scale: X-ray image (inset) is about 15 arcsec (7,900 light years) across. Optical image is about 32 arcmin (1 million light years) across.
+Category: Black Holes,Groups & Clusters of Galaxies
+Coordinates (J2000): RA 13h 51m 25.4s | Dec +40° 12´ 47.8"
+Constellation: Canes Venatici
+Observation Date: August 17, 2018
+Observation Time: 4 hours 10 minutes
+Obs. ID: 20773
+Instrument: ACIS
+References: Parker, J. and Hickox, R., 2022.
+Color Code: X-ray: purple; Optical: red, green, blue
+Distance Estimate: About 110 million light years (z=0.008)

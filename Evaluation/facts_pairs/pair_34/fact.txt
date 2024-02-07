@@ -1,0 +1,12 @@
+Credit:: X-ray: NASA/CXC/Washington State Univ./V. Baldassare et al.; Optical: NASA/ESA/STScI
+Release Date:: April 20, 2022
+Scale:: Image is about 2.68 arcmin (33,400 light years) across
+Category: Black Holes,Normal Galaxies & Starburst Galaxies
+Coordinates (J2000):: RA 3h 37m 28.33s | -24° 30' 3.22"
+Constellation:: Fornax
+Observation Dates:: Dec 6, 2018
+Observation Time:: 1 hour 24 minutes
+Obs. IDs:: 21473
+Instrument:: ACIS
+Color Code:: X-ray: blue; Optical: red, green, and blue
+Distance Estimate:: About 43 million light years

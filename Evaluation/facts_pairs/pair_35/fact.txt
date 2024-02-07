@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/INAF/P. Tozzi et al; Optical (Subaru): NAOJ/NINS; Optical (HST): NASA/STScI
+Release Date: March 31, 2022
+Scale: Main image is about 6.8 arcmin (11.3 million light years) across; Inset image is about 36 arcsec (1 million light years) across.
+Category: Black Holes,Groups & Clusters of Galaxies
+Coordinates (J2000): RA 11h 40m 48.3s | Dec -26° 29´ 09"
+Constellation: Hydra
+Observation Date: 22 total observations: 1 observation: June 6, 2000 and 21 observations between November 18, 2019 and August 4, 2020.
+Observation Time: 198 hours
+Obs. ID: 898, 21481-21484, 22905, 22921-22929, 23069, 23175, 23186, 23190, 23201, 23205, 23215
+Instrument: ACIS
+References: Tozzi, P., et al., 2022, A&A, Accepted;arXiv:2203.02208.
+Color Code: X-ray: purple; HST: red, green, blue; Subaru: red, green, blue
+Distance Estimate: About 10.6 billion light years (z=2.156)

@@ -1,0 +1,12 @@
+Credit:: X-ray: NASA/CXC/RIT/J.Kastner; Optical: NASA/ESA/AURA/STScI
+Release Date:: December 6, 2021
+Scale:: Image is about 2.25 arcmin (2.2 light years) across
+Category: White Dwarfs & Planetary Nebulas
+Coordinates (J2000):: RA 17h 13m 44.21s | -37° 06" 15.94'
+Constellation:: Scorpius
+Observation Dates:: 2 observations on April 26, 2013
+Observation Time:: 8 hours 19 minutes
+Obs. IDs:: 12370, 14364
+Instrument:: ACIS
+Color Code:: X-ray: purple; Optical: red, green, blue
+Distance Estimate:: About 3,400 light years

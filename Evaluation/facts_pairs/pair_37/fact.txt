@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Northwestern Univ./A. Hajela et al.; Illustration: NASA/CXC/M.Weiss
+Release Date: February 28, 2022
+Scale: Inset image is 30 arcsec across (19,000 light-years)
+Category: Neutron Stars/X-ray Binaries
+Coordinates (J2000): RA 13h 09m 48.1s | Dec -23° 22´ 53.4"
+Constellation: Hydra
+Observation Date: 7 observations from Dec 9, 2020-Jan 27, 2021
+Observation Time: 53 hours
+Obs. ID: 22677, 24887-24889, 23870, 24923, 24924
+Instrument: ACIS
+References: Hajela, A. et al., 2022, ApJL, accepted;Paper(PDF)
+Color Code: X-ray: Purple
+Distance Estimate: About 130 million light years

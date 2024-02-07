@@ -1,0 +1,12 @@
+Credit: X-ray: NASA/CXC/Univ. of Bologna/F. Ubertosi; Optical: NASA/STScl/M.Calzadilla
+Release Date: December  16, 2021
+Scale: X-ray & optical images are about 1 arcmin (1.1 million light years) across.
+Category: Groups & Clusters of Galaxies,Black Holes
+Constellation: Draco
+Observation Date: 13 pointings between May 24, 2020 and Dec 6, 2020
+Observation Time: 113 hours 33 minutes (4 days, 17 hours, 33 minutes)
+Obs. ID: 22636-22638, 22931-22935, 23332, 24631-24632, 24852, 24865
+Instrument: ACIS
+References: Ubertosi, F. et al, 2021.ApJL paper
+Color Code: X-ray: blue; Optical: orange and blue
+Distance Estimate: About 3.9 billion light years (z=0.354)

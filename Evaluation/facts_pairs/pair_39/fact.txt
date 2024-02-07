@@ -1,0 +1,13 @@
+Image Credit: A. Fujii, J. Morse (BoldlyGo Inst), N. Smith (U Arizona), Hubble SM4 ERO Team, NASA, ESA, STScI, JPL-Caltech, CXC, ESO, NOAO, AURA, NSF
+Video Credit: J. Olmsted, D. Player, L. Hustak, A. Pagan, J. DePasquale, G. Bacon, F. Summers (STScI), R. Hurt (Caltech/IPAC), NASA, ESA; Music: "Interstellar Wanderer", Joseph DePasquale, CC BY-NC 4.0
+Release Date: January 25, 2022
+About the Sonification: 3D Method for Optical/H/X-ray LayersThe distribution of emitting regions visible in the top-down view is used to control the overall volume and stereo position (so a bright region will be loudest when close to the camera and can be heard moving from left to right)This is done with a set of 'cloud tracers', the sound generated for each layer is placed at several points around a horizontal ring. The inherent volume of each tracer indicates the brightness in that direction.OpticalOptical spectrum shifted into human hearing range (40, 41, and 42 octaves lower)Optical lightcurve fluctuations control the volume (kind of flickering)Volume and stereo position is modulated by position and depth of emitting regions (louder when closer to viewer/listener)UVMap distance from the center to pitch (higher pitches when light is closer to viewer/listener)The top-down image is sonified, rather than generating a sound using a spectrum and lightcurve (this contrasting sound makes it easier to hear the spokes and also contrasts with the tone of the other 3 layers making it easier to differentiate)H-alphaSingle frequency (40 octaves below true H alpha frequency), with changes in pitch due to doppler shift of bright regions approaching or receding viewer/listenerVolume and stereo position is modulated by position and depth of emitting regions (louder when closer to viewer/listener)Single frequency (40 octaves below true H alpha frequency)Amplitude is modulated with clumps in imageX-rayX-ray spectrum shifted into human hearing range (49 octaves lower)X-ray lightcurve fluctuations control the volumeFluctuations are caused by brightening every 5 years when the binary stars are at their closest (periastron), (there is about 3 cycles per second, so 15 years pass every second)Volume and stereo position is modulated by position and depth of emitting regions (louder when closer to viewer/listener)
+Scale: X-ray component is about 1.1 arcmin (2.4 light years) across.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA 10h 45m 04s | Dec -59° 41' 03"
+Constellation: Carina
+Observation Date: Chandra: 8 pointings between Sep 1999 and Feb 2009
+Observation Time: Chandra: 30 hours (1 day 6 hours)
+Obs. ID: 50, 1249, 4455, 9933-9937
+Instrument: Chandra:ACIS
+Distance Estimate: About 7,500 light years

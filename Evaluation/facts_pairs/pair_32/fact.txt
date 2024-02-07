@@ -1,0 +1,14 @@
+Credit: X-ray: NASA/CXC/SAO; IR: NASA/HST/STScI. Inset: Radio (EHT Collaboration)
+Release Date: May 12, 2022
+Scale: Main image is about 55 arcsec (7.0 light years) across; Inset image is about 1.4x10-4arcsec (10 light minutes) across.
+Category: Black Holes,Milky Way Galaxy
+Coordinates (J2000): RA 17h 45m 40s | Dec -29° 00´ 28.00"
+Constellation: Sagittarius
+Observation Date: 4 observations: April 6, April 7, April 11, April 12, 2017
+Observation Time: 31 hours 45 minutes (1 day 7 hours 45 minutes)
+Obs. ID: 19726, 19727, 20040, 20041
+Instrument: ACIS
+Also Known As: Galactic Center
+References: The EHT Collaboration, PapersIIandV, 2022, ApJ (accepted).
+Color Code: Main image: X-ray (blue); Near Infrared (yellow); Mid-Infrared (purple). Inset: Radio (red)
+Distance Estimate: About 26,500 light years

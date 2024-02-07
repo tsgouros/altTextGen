@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Tokyo Univ. of Science/K. Fukushima, et al.; IR: NASA/JPL/Spitzer; Radio: CSIRO/ATNF/ATCA
+Release Date: October 12, 2021
+Scale: Image is about 17.6 arcmin (100 light years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 17h 03m 56s | Dec -41Â° 42Â´ 59"
+Constellation: Scorpius
+Observation Date: 7 observations between May 12 and July 05, 2018
+Observation Time: 33 hours 8.4 minutes (2 days, 9 hours, 8.4 minutes)
+Obs. ID: 20308, 20309, 21093, 21094, 21095, 21096, 21117
+Instrument: ACIS
+References: Fukushima, K., et al., 2020, ApJ, 897, 62.arXiv:2005.09664
+Color Code: Multiwavelength Image: Radio (red), Infrared (green & yellow), X-ray (blue); X-ray 3 Color Image: Si (red), 3-6 keV (green), Fe (blue)
+Distance Estimate: About 19,600 light years

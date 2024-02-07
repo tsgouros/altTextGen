@@ -1,0 +1,12 @@
+Credit: Illustration: NASA/CXC/M. Weiss; X-ray (Inset): NASA/CXC/ASIAA/Y.-H. Chu, et al.
+Release Date: November 22, 2021
+Scale: X-ray image (inset) is about 1 arcmin (0.38 light years) across.
+Category: White Dwarfs & Planetary Nebulas
+Constellation: Cassiopeia
+Observation Date: March 19, 2008
+Observation Time: 13 hours 10 minutes
+Obs. ID: 8942
+Instrument: ACIS
+References: Chu, Y-H., et al., 2021, ApJ, 910, 119;arXiv:2102.05035
+Color Code: X-ray: purple
+Distance Estimate: About 1,300 light years

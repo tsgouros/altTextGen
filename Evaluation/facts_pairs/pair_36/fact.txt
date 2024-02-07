@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Stanford Univ./M. de Vries; Optical: NSF/AURA/Gemini Consortium
+Release Date: March 14, 2022
+Scale: Main image is about 5.8 arcmin (2.7 light years) across; Inset image is about 42.5 arcsec (0.33 light years) across.
+Category: Neutron Stars/X-ray Binaries
+Coordinates (J2000): RA 20h 30m 51.40s | Dec +44° 15´ 38.7"
+Constellation: Cygnus
+Observation Date: 8 observations from Apr 15, 2014, Apr 10-15, 2019, Feb 13 and Nov 8, 2021
+Observation Time: 69 hours
+Obs. ID: 14827, 20298, 22171-22173, 23536, 24954, 24236
+Instrument: ACIS
+References: de Vries, M. and Romani, R., 2022, ApJ, Accepted;arXiv:2202.03506
+Color Code: X-ray: blue; Optical: red
+Distance Estimate: About 1,600 light years

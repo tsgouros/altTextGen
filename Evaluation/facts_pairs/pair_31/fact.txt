@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Univ. of Nottingham/H. Russell et al.; Optical: NAOJ/Subaru
+Release Date: June  7, 2022
+Scale: Image is about 7.2 arcmin (5.3 million light years) across.
+Category: Groups & Clusters of Galaxies
+Coordinates (J2000): RA 15h 58m 19.8s | Dec +27° 13´ 45"
+Constellation: Corona Borealis
+Observation Date: 67 observations from Aug 10, 2010 to Aug 30, 2019
+Observation Time: 536 hours (22 days, 8 hours)
+Obs. ID: 12245-12247, 13020-13021, 13021, 13023, 13138, 20552-20563, 20912-20923, 21101, 21130, 21135-21136, 21674, 21733, 21970, 21966-21968, 21996, 22011, 22028-22030, 22079, 22093, 22097, 22129, 22200, 22217, 22224-22225, 22228, 22235-22238, 22241-22243, 22253-22254, 22258-22260, 22262-22265, 22286, 22678, 22731-22734
+Instrument: ACIS
+References: Russell, H. et al., 2022, MNRAS, accepted;arXiv:2204.05785
+Color Code: X-ray: purple; Optical: red, green, and blue
+Distance Estimate: About 2.8 billion light years (z=0.234)

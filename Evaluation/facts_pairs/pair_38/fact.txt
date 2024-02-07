@@ -1,0 +1,13 @@
+Credit:: X-ray: NASA/CXC/SAO/R. Montez et al.; Optical: Data: NASA/ESA/STScI, Enhanced processing by Judy Schmidt (CC BY-NC-SA). 
+X-ray/Optical composite processing by CXC
+Release Date:: February 2, 2022
+Scale:: Image is about 4.2 arcmin (0.86 light years) across
+Category: Normal Stars & Star Clusters,White Dwarfs & Planetary Nebulas
+Coordinates (J2000):: RA 23h 49m 34.6s | -15° 17' 04"
+Constellation:: Aquarius
+Observation Dates:: 3 pointings between Sep 2001 and Oct 2005
+Observation Time:: 34 hours 54 minutes (1 day 10 hours 54 minutes)
+Obs. IDs:: 651, 4546, 5438
+Instrument:: ACIS
+Color Code:: X-ray: purple; Optical: red, green, and blue
+Distance Estimate:: About 710 light years

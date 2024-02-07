@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/SAO/R. DiStefano, et al.; Optical: NASA/ESA/STScI/Gendler; Illustration: NASA/CXC/M.Weiss
+Release Date: October 25, 2021
+Scale: Image is about 6 arcmin (49,000 light years) across.
+Category: Normal Galaxies & Starburst Galaxies
+Constellation: Canes Venatici
+Observation Date: 11 pointings between March 2000 and October 2012
+Observation Time: 232 hours 10 minutes (9 days 16 hours 10 min)
+Obs. ID: 353, 354, 1622, 3932, 13812-13816, 15496, 15553
+Instrument: ACIS
+Also Known As: NGC 5194, NGC 5195
+References: DiStefano, R., et al., 2021, Nature Astronomy (Published);PDF Document
+Color Code: X-ray: purple and blue; Optical: red, green, and blue
+Distance Estimate: About 28 million light years
