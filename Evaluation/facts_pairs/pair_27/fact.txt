@@ -1,0 +1,12 @@
+Credit:: X-ray: NASA/CXC/SAO; IR (Spitzer): NASA/JPL-Caltech; IR (Webb): NASA/ESA/CSA/STScI
+Release Date:: October 4, 2022
+Scale:: Image is about 7.4 arcmin (620,000 light-years) across
+Category: Groups and Clusters of Galaxies
+Coordinates (J2000):: RA 22h 35m 57.5s  | +33° 57' 36"
+Constellation:: Pegasus
+Observation Dates:: Jul 9, 2000 & Aug 17, 2007
+Observation Time:: 31 hours (1 day 7 hours)
+Obs. IDs:: 789, 7924
+Instrument:: ACIS
+Color Code:: X-ray: cyan; IR (Spitzer): red, green, blue; Optical/IR (Webb): red, orange, yellow, green, blue
+Distance Estimate:: About 290 million light-years

@@ -1,0 +1,12 @@
+Credit: X-ray: NASA/CXC/Penn State Univ./L. Townsley et al.; IR: NASA/ESA/CSA/STScI/JWST ERO Production Team
+Release Date: January 9, 2023
+Scale: Image is about 7.24 arcmin (360 light-years) across.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA 5h 38m 42s | Dec -69° 06´ 03"
+Constellation: Dorado
+Observation Dates: 54 observations from Jan 31, 2007 to Jan 23, 2016
+Observation Time: 571 hours 55 minutes (23 days 19 hours 55 minutes)
+Obs. ID: 5906, 7263, 7264, 16192-16203, 16442-16449, 16612, 16615-16617, 16621, 16640, 17413-17414, 17486, 17544-17545, 17555, 17561-17562, 17602-17603, 17640-17642, 17660, 18670-18672, 18706, 18720-18722, 18729, 18749-18750
+Instrument: ACIS
+Color Code: X-ray: dark blue; Infrared: red, orange, green, blue
+Distance Estimate: About 170,000 light-years

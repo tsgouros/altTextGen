@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Ames Research Center/L. Bonne et al.; Infrared: ESA/NASA.JPL-Caltech/Herschel Space Observatory/JPL/IPAC
+Release Date: November 29, 2022
+Scale: Image is about 17 arcmin (14 light-years) across. North is 32° to the left of vertical.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA  08h 59m 00.9s | Dec -43° 44´ 10"
+Constellation: Vela
+Observation Date: September 23, 2006
+Observation Time: 19 hours 33 minutes
+Obs. ID: 6433
+Instrument: ACIS
+References: Bonne, L., et al., 2022, ApJ, 935, 171;arXiv:2207.06479
+Color Code: X-ray: blue with white stars; Infrared: red (250 nm), orange (160 nm), green (70 nm)
+Distance Estimate: About 2,900 light-years

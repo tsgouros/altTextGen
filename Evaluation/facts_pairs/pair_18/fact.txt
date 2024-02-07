@@ -1,0 +1,14 @@
+Credit: X-ray: Chandra: NASA/CXC/Univ. of Bolonga/K. Rajpurohit et al.; XMM-Newton: ESA/XMM-Newton/Univ. of Bolonga/K. Rajpurohit et al.
+Radio: LOFAR: LOFAR/ASTRON; GMRT: NCRA/TIFR/GMRT; VLA: NSF/NRAO/VLA; Optical/IR: Pan-STARRS
+Release Date: January 30, 2023
+Scale: Image is about 22.5 arcmin (5.6 million light-years) across.
+Category: Groups & Clusters of Galaxies
+Coordinates (J2000): RA 17h 03m 43.5s | Dec +78° 43´ 03"
+Constellation: Ursa Minor
+Observation Dates: 4 observations from Aug 14 to Sep 26, 2014
+Observation Time: 49 hours 55 minutes (2 days 1 hours)
+Obs. ID: 17129, 16514, 16515, 17516
+Instrument: ACIS
+References: Rajpurohit, K., et al., 2022, ApJ, 927, 80;arXiv:2111.04449(Paper I); Rajpurohit, K., et al., 2022, Accepted, A&AarXiv:2209.03288(Paper II)
+Color Code: X-ray: blue; Radio: red, white; Optical: red, green, blue.
+Distance Estimate: About 780 million light-years

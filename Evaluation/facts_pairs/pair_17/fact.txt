@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Univ. of Alabama/M. Micic et al.; Optical: International Gemini Observatory/NOIRLab/NSF/AURA
+Release Date: February 22, 2023
+Scale: Image is about   14 arcseconds (50,000 light-years) across.
+Category: Black Holes,Quasars & Active Galaxies
+Coordinates (J2000): RA 01h 01m 36.7s | Dec -21° 37´ 48.5"
+Constellation: Cetus
+Observation Date: June 6th, Sept 9, and Sept 10, 2011
+Observation Time: 44 hours (2 days 20 hours)
+Obs. ID: 13446, 13449, 14338
+Instrument: ACIS
+References: Micic, M., et al., 2023, ApJ, in press;arXiv:2211.04609
+Color Code: X-ray: pink; Optical: blue
+Distance Estimate: About 760 million light-years

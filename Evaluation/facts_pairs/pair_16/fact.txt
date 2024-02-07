@@ -1,0 +1,14 @@
+Credit: X-ray (IXPE: NASA/ASI/MSFC/INAF/R. Ferrazzoli, et al.), (Chandra: NASA/CXC/RIKEN & GSFC/T. Sato et al.)  Optical: DSSImage processing: NASA/CXC/SAO/K. Arcand, L. Frattare & N. Wolk
+Release Date: February 28, 2023
+Scale: Image is about 16 arcmin (60 light-years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 00h 25m 17s | Dec +64° 08´ 37"
+Constellation: Cassiopeia
+Observation Dates: 14 pointings between Oct 1, 2001 & April 22, 2016
+Observation Time: 336 hours 2 minutes (14 days 0 hours 2 minutes)
+Obs. ID: 115, 3837, 7539, 8551, 10093-10097; 10902-10904; 10906, 15998
+Instrument: ACIS
+Also Known As: G120.1+01.4, SN 1572
+References: Ferrazzoli, R. et al., 2023, ApJ, accepted;arXiv:2301.07397
+Color Code: Chandra X-ray: red & blue; IXPE X-ray: purple & white; Optical: white, red, blue
+Distance Estimate: About 13,000 light-years

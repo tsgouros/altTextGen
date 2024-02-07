@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/SAO/L. Xi et al.; Optical: Palomar DSS2
+Release Date: June 15, 2022
+Scale: Main image is about 11.4 arcmin (66 light-years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 11h 24m 36.00s | Dec -59° 16´ 00.00"
+Constellation: Centaurus
+Observation Date: 6 pointings between 13 Sep and 16 Oct 2006 and 9 pointings between 4 Oct and 13 Nov 2016
+Observation Time: 224 hours (9 days, 8 hours)
+Obs. ID: 6677-6680, 8221, 8447, 18028, 18029, 19893, 19894, 19897-19899
+Instrument: ACIS
+References: Xi L. et al, 2022, ApJ, Accepted;arXiv: 2205.07951
+Color Code: X-ray: (red: 0.50-1.2keV, orange/yellow: 1.2-2.2 keV, blue: 2.2-8.0 keV); Optical: red and blue
+Distance Estimate: About 20,000 light-years

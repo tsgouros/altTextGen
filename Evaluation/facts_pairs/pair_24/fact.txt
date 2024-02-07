@@ -1,0 +1,13 @@
+Credit: Illustration: NASA/CXC/M.Weiss. X-ray: NASA/CXC/Potsdam Univ./N. Ilic et al.
+Release Date: November 2, 2022
+Scale: Image of HD 189733 is about 30 arcsec (0.00929 light-years or 3.39 light-days) across.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA 20h 00m 43.7s | Dec +22° 42´ 39.1"
+Constellation: Vulpecula
+Observation Date: July 5, 2011
+Observation Time: 5 hours 21 minutes
+Obs. ID: 12340
+Instrument: ACIS
+References: Ilic, N., et al., 2022, MNRAS, 513, 4380.arXiv:2203.13637
+Color Code: X-ray: purple
+Distance Estimate: About 64.5 light-years

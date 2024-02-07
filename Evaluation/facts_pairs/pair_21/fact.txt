@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Penn State Univ./K. Getman et al.; Infrared: ESA/NASA JPL-Caltech/Herschel Space Observatory/JPL/IPAC; NASA JPL-Caltech/SSC/Spitzer Space Telescope; Optical: MPG/ESO/G. Beccari;
+Release Date: December 15, 2022
+Scale: Image is about 22 arcmin (53 light-years) across.
+Category: Normal Stars & Star Clusters
+Coordinates (J2000): RA 10h 35m 52.8 | Dec -58° 13´ 52"
+Constellation: Carina
+Observation Date: October 7, 2015
+Observation Time: 19 hours 41 minutes
+Obs. ID: 16648
+Instrument: ACIS
+References: Getman, K.V., et al., 2022, ApJ, 935, 43;arXiv:2203.02047
+Color Code: X-ray: purple; Infrared: red, blue, white; Optical: red, green, blue;
+Distance Estimate: About 8,300 light-years

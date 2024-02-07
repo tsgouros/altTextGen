@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/GSFC/B. J. Williams et al.; Optical: NASA/ESA/STScI
+Release Date: September 12, 2022
+Scale: Image is about 1.9 arcmin (88 light-years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 5h 19m 34.29s | Dec -69° 02´ 5.86"
+Constellation: Dorado
+Observation Date: 15 observations from March 3 to November 2, 2021
+Observation Time: 110 hours 33 minutes (4 days 14 hours 33 minutes)
+Obs. ID: 23576, 24263-24274, 25061, 25988
+Instrument: ACIS
+References: Williams, B. J., et al., 2022, ApJ, 935, 78;arXiv:2207.08724
+Color Code: X-ray: green (0.4-0.7keV), blue (0.7-0.8 keV) and purple (3.0-6.2 keV); Optical: cyan and red (H-alpha)
+Distance Estimate: About 160,000 light-years

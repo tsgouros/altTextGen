@@ -1,0 +1,14 @@
+Credit: X-ray: Chandra: NASA/CXC/SAO, IXPE: NASA/MSFC/J. Vink et al.; Optical: NASA/STScI
+Release Date: October  18, 2022
+Scale: Main image is about 8.91 arcmin (29 light-years) across.
+Category: Supernovas & Supernova Remnants
+Coordinates (J2000): RA 23h 23m 26.7s | Dec +58° 49' 03.00"
+Constellation: Cassiopeia
+Observation Date: 16 pointings between Jan 2000-Nov 2010
+Observation Time: 353 hours (14 days, 17 hours)
+Obs. ID: 114, 1952, 4634-4639, 5196, 5319, 5320, 6690, 10935, 10936, 12020, 13177
+Instrument: ACIS
+Also Known As: Cas A
+References: Vink, J. et al., 2022, ApJ, 938, 40;arXiv:2206.06713
+Color Code: X-ray: Chandra (blue/cyan), IXPE (turquoise); Optical: gold;
+Distance Estimate: About 11,000 light-years

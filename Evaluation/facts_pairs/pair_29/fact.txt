@@ -1,0 +1,13 @@
+Credit: X-ray: NASA/CXC/Swinburne Univ. of Technology/A. Graham et al.; Optical: NASA/ESA/STScI
+Release Date: August 18, 2022
+Scale: Main image is about 2.9 arcmin (45,100 light-years) across. The inset image is about 4.5 arcsec (1,160 light-years) across.
+Category: Black Holes,Groups & Clusters of Galaxies
+Coordinates (J2000): RA 12h 27m 11.6s | Dec +09° 25´ 14.32"
+Constellation: Virgo
+Observation Date: April 4, 2017
+Observation Time: 4 hours 8 minutes
+Obs. ID: 19408
+Instrument: ACIS
+References: Graham, A. et al., 2021, ApJ, 923, 146.;arXiv:2112.05318
+Color Code: X-ray: blue; Optical: red, green, blue
+Distance Estimate: About 53.6 million light-years
