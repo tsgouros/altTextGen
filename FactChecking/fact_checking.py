@@ -103,7 +103,32 @@ def process_alt_text(alt_text, metadata, colors):
     print("\n")    
     return alt_text_score
 
+def create_master_lists(data):
+    master_img_types = set()
+    master_obj_types = set()
+    master_obj_names = set()
+
+    for entry in data.values():
+        metadata = entry['info']  # Assuming 'info' is a list like [img_type, obj_type, obj_name]
+        master_img_types.add(metadata[0].lower())
+        master_obj_types.add(metadata[1].lower())
+        master_obj_names.add(metadata[2].lower())
+
+    return master_img_types, master_obj_types, master_obj_names
+
+def load_data_from_pickle(pickle_file_path):
+    with open(pickle_file_path, 'rb') as handle:
+        data = pickle.load(handle)
+    return data
+    
+pickle_file_path = "all_pdf_info_r3.pkl"
+data = load_data_from_pickle(pickle_file_path)
+
+master_img_types, master_obj_types, master_obj_names = create_master_lists(data)
+
 def process_alt_text_binary(alt_text, metadata, colors):
+    global master_img_types, master_obj_types, master_obj_names 
+
     img_type = metadata[0].lower()
     obj_type = metadata[1].lower()
     obj_name = metadata[2].lower()
@@ -132,20 +157,33 @@ def process_alt_text_binary(alt_text, metadata, colors):
     if obj_name not in lower_alt_text:
         pass_check = False
         failure_reasons.append(f"Object Name '{obj_name}' not in alt text.")
+
+    #FALSE POSITIVES CHECK
+    for word in words:
+        # Check if any word matches a master list entry but not the current metadata
+        if word in master_img_types and img_type != word:
+            pass_check = False
+            failure_reasons.append(f"False image type mentioned: {word}")
+        if word in master_obj_types and obj_type != word:
+            pass_check = False
+            failure_reasons.append(f"False object type mentioned: {word}")
+        if word in master_obj_names and obj_name != word:
+            pass_check = False
+            failure_reasons.append(f"False object name mentioned: {word}")    
         
     #ENDOGENOUS
         
     #changed this,  more efficient by creating a set of words from the alt text and
     #then finding the intersection with the set of known color names so that each color is only checked once, 
     words = set(lower_alt_text.split())
-    mentioned_colors = words.intersection(set(color_names))
-    extracted_colors_set = set(colors)
+    mentioned_colors = words.intersection(set(color_names)) #colors in alt text
+    extracted_colors_set = set(colors) #colors from imsge
 
     if not mentioned_colors.intersection(extracted_colors_set):
         pass_check = False
         failure_reasons.append("None of the extracted colors are mentioned in the alt text.")
 
-    unmatched_colors = mentioned_colors.difference(set(colors)) #to find any colors mentioned in the alt text 
+    unmatched_colors = mentioned_colors.difference(extracted_colors_set) #to find any colors mentioned in the alt text 
     #that do not appear in the set of colors extracted from the image.
     
     if unmatched_colors:
