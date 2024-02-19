@@ -6,6 +6,9 @@ import io #handling byte streams
 import json
 import matplotlib.pyplot as plt
 
+import os
+import openai
+
 # Import the Packages
 from sklearn.cluster import KMeans
 import numpy as np
@@ -103,18 +106,51 @@ def process_alt_text(alt_text, metadata, colors):
     print("\n")    
     return alt_text_score
 
+
+openai.api_key = "lalalala"
+
+
+def response_to_list(response):
+    return [item.strip() for item in response.split(',')]
+
+def check_obj_name(alt_text):
+    prompt = [
+        
+        {
+            "role": "user",
+            "content": [
+                 {"type": "text", "text": "Identify the unique name of the object/objects described in this alt text. Respond with just the object names, seperated by commas if there are multiple"},
+                {"type": "text", "text": alt_text},
+            ]
+        },
+        
+    ]
+
+    response = openai.ChatCompletion.create(
+            model="gpt-4-vision-preview",
+            messages=prompt,
+            max_tokens=200
+        )
+
+    message =  response['choices'][0]['message']['content'] if response['choices'] else None
+    name_list = response_to_list(message)
+
+    return name_list
+
+
+
 def create_master_lists(data):
     master_img_types = set()
     master_obj_types = set()
-    master_obj_names = set()
+   # master_obj_names = set()
 
     for entry in data.values():
         metadata = entry['info']  # Assuming 'info' is a list like [img_type, obj_type, obj_name]
         master_img_types.add(metadata[0].lower())
         master_obj_types.add(metadata[1].lower())
-        master_obj_names.add(metadata[2].lower())
+       # master_obj_names.add(metadata[2].lower())
 
-    return master_img_types, master_obj_types, master_obj_names
+    return master_img_types, master_obj_types
 
 def load_data_from_pickle(pickle_file_path):
     with open(pickle_file_path, 'rb') as handle:
@@ -124,10 +160,13 @@ def load_data_from_pickle(pickle_file_path):
 pickle_file_path = "all_pdf_info_r3.pkl"
 data = load_data_from_pickle(pickle_file_path)
 
-master_img_types, master_obj_types, master_obj_names = create_master_lists(data)
+
+master_img_types, master_obj_types = create_master_lists(data)
 
 def process_alt_text_binary(alt_text, metadata, colors):
     global master_img_types, master_obj_types, master_obj_names 
+
+    
 
     img_type = metadata[0].lower()
     obj_type = metadata[1].lower()
@@ -158,6 +197,8 @@ def process_alt_text_binary(alt_text, metadata, colors):
         pass_check = False
         failure_reasons.append(f"Object Name '{obj_name}' not in alt text.")
 
+    obj_name_list = check_obj_name(alt_text) #new 
+    
     #FALSE POSITIVES CHECK
     for word in words:
         # Check if any word matches a master list entry but not the current metadata
@@ -167,7 +208,7 @@ def process_alt_text_binary(alt_text, metadata, colors):
         if word in master_obj_types and obj_type != word:
             pass_check = False
             failure_reasons.append(f"False object type mentioned: {word}")
-        if word in master_obj_names and obj_name != word:
+        if word in obj_name_list and obj_name != word: #new
             pass_check = False
             failure_reasons.append(f"False object name mentioned: {word}")    
         
