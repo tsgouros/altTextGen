@@ -63,18 +63,19 @@ def evaluate_multiple(directory):
         with open(url_path, 'r') as file:
             image_url = file.read().strip("(),'")
 
-        good_scores_vector = evaluate_description(good_text, image_url)
-        bad_scores_vector = evaluate_description(bad_text, image_url)
+        # good_scores_vector = evaluate_description(good_text, image_url)
+        # bad_scores_vector = evaluate_description(bad_text, image_url)
 
-        good_classification = classify_text(good_scores_vector)
-        bad_classification = classify_text(bad_scores_vector)
+        # good_classification = classify_text(good_scores_vector)
+        # bad_classification = classify_text(bad_scores_vector)
 
-        descriptions.append((good_text, good_scores_vector))
-        descriptions.append((bad_text, bad_scores_vector))
+        # descriptions.append((good_text, good_scores_vector))
+        # descriptions.append((bad_text, bad_scores_vector))
        
-
-        classifications.append((good_scores_vector,good_classification))
-        classifications.append((bad_scores_vector, bad_classification))
+        good_classification = evaluate_single(good_text, image_url)
+        bad_classification = evaluate_single(bad_text, image_url)
+        classifications.append(good_classification)
+        classifications.append(bad_classification)
 
     print(classifications)
 
