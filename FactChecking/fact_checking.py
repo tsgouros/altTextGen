@@ -175,6 +175,7 @@ def process_alt_text_binary(alt_text, metadata, colors):
     color_names = [name for hex_code, name in CSS21_HEX_TO_NAMES.items()]
     pass_check = True
     failure_reasons = []
+    alt_text_score = 0
     
     lower_alt_text = str(alt_text).lower()
     words = lower_alt_text.split()
@@ -183,19 +184,36 @@ def process_alt_text_binary(alt_text, metadata, colors):
     # check for image type
 
     #EXOGENOUS
+    # if img_type not in lower_alt_text:
+    #     pass_check = False
+    #     failure_reasons.append(f"Image type '{img_type}' not in alt text.")
+        
+
+    # if obj_type not in lower_alt_text:
+    #     pass_check = False
+    #     failure_reasons.append(f"Object type '{obj_type}' not in alt text.")
+        
+
+    # if obj_name not in lower_alt_text:
+    #     pass_check = False
+    #     failure_reasons.append(f"Object Name '{obj_name}' not in alt text.")
+
     if img_type not in lower_alt_text:
-        pass_check = False
-        failure_reasons.append(f"Image type '{img_type}' not in alt text.")
-        
-
+        alt_text_score = -1
+        print("img type not in alt text", img_type)
+    else:
+        print("img type is in alt!", img_type)
     if obj_type not in lower_alt_text:
-        pass_check = False
-        failure_reasons.append(f"Object type '{obj_type}' not in alt text.")
-        
-
+        alt_text_score = -1
+        print("obj type not in alt text", obj_type)
+    else:
+        print("obj type is in alt!", obj_type)
     if obj_name not in lower_alt_text:
-        pass_check = False
-        failure_reasons.append(f"Object Name '{obj_name}' not in alt text.")
+        alt_text_score = -1
+        print("obj name not in alt text", obj_name)
+    else:
+        print("obj name is in alt!", obj_name)
+
 
     obj_name_list = check_obj_name(alt_text) #new 
     
@@ -221,8 +239,8 @@ def process_alt_text_binary(alt_text, metadata, colors):
     extracted_colors_set = set(colors) #colors from imsge
 
     if not mentioned_colors.intersection(extracted_colors_set):
-        pass_check = False
-        failure_reasons.append("None of the extracted colors are mentioned in the alt text.")
+        alt_text_score = -1
+        print("None of the extracted colors are mentioned in the alt text.")
 
     unmatched_colors = mentioned_colors.difference(extracted_colors_set) #to find any colors mentioned in the alt text 
     #that do not appear in the set of colors extracted from the image.
@@ -233,7 +251,7 @@ def process_alt_text_binary(alt_text, metadata, colors):
         failure_reasons.append(f"Mentioned colors not in image: {unmatched_color_str}.")
     
     if pass_check:
-        return "Pass", []
+        return "Pass", alt_text_score #new
     else:
         return "Fail", failure_reasons
 
@@ -290,6 +308,7 @@ def process_files_binary(pickle_file_path, alt_text_file_path):
     #for binary
     entryToAltDict = {}
     entryToFailReasonsDict = {}
+    goodAltDict = {} #new
     for entry in data:
         print("entry: " + str(entry))
         
@@ -322,10 +341,26 @@ def process_files_binary(pickle_file_path, alt_text_file_path):
                 entryToAltDict[entry] = alt_text
                 print(f"Passing alt text found: {alt_text}")
                 pass_found = True
-                break
+                
             else:
                 entryToFailReasonsDict[entry] = reasons
-        
+
+        for _ in entryToAltDict:
+            alt_text_scores = []
+            for i in range(20):
+                score = process_alt_text(alt_texts[entry][i], metadata, colors)
+                alt_text_scores.append(score)
+            print("scores: " + str(alt_text_scores))
+
+        if 0 in alt_text_scores: #new
+            goodaltInd = alt_text_scores.index(0)
+            goodalt = alt_texts[entry][goodaltInd]
+            goodAltDict[entry] = goodalt
+            print("first good alt text:", goodalt)
+        else:
+            goodAltDict[entry] = ""
+
+
         if not pass_found:
             print(f"No passing alt text found for entry {entry}. See failure reasons.")
             entryToAltDict[entry] = ""  # Indicate no passing alt text found
@@ -334,6 +369,9 @@ def process_files_binary(pickle_file_path, alt_text_file_path):
     # Save the mapping of entries to their evaluated alt texts
     with open('entryToCheckedAltText.json', 'w') as json_file:
         json.dump(entryToAltDict, json_file)
+    #save good alt texts mapping
+    with open('GoodAltText.json', 'w') as json_file:
+        json.dump(goodAltDict, json_file)
     
     # Optionally, save the failure reasons for entries without a passing alt text
     with open('entryToFailReasons.json', 'w') as json_file:
